@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Janith Induwara Nanayakkara</h1>
-<h3 align="center">A passionate FullStack developer from Sri Lanka</h3>
+<img align="center" alt="coding" width="4000" src="https://media.licdn.com/dms/image/D5616AQF42f8ahJkFJw/profile-displaybackgroundimage-shrink_350_1400/0/1676020649731?e=1681344000&v=beta&t=EHjeI5c3wrSm5VPSGBSR8-O5J5hSy0vJlJ3--EvipPA">
+
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
